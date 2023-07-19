@@ -3,7 +3,7 @@
 I'm Riffy. Not a self-proclaimed VP of Engineering, but a lunatic at [Creatorsgarten](https://creatorsgarten.org/). But really, I'm a Senior Frontend Engineer at [LINE MAN Wongnai](https://lmwn.com/).
 
 - Prevoiusly worked at Level11th, and [BRIKL](https://brikl.com).
-- I try new web technologies by creating new projcets e.g. [Jacquard RTC](https://github.com/rayriffy/jacquard-rtc), [Riffy H](https://github.com/rayriffy/rayriffy-h), [Music Profile](https://github.com/rayriffy/apple-music-github-profile) , and [many more](https://github.com/rayriffy?tab=repositories)
+- I try new web technologies by creating new projects e.g. [Jacquard RTC](https://github.com/rayriffy/jacquard-rtc), [Riffy H](https://github.com/rayriffy/rayriffy-h), [Music Profile](https://github.com/rayriffy/apple-music-github-profile) , and [many more](https://github.com/rayriffy?tab=repositories)
 - I actively post cool stuffs from travel to technologies. Follow me on [Facebook](https://facebook.com)
 
 ## 👨🏻‍💻 Tech stacks
