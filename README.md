@@ -1,16 +1,17 @@
 ## 👏👏 Hey all!
 
-I'm Riffy. Not a self-proclaimed VP of Engineering, but a lunatic at [Creatorsgarten](https://creatorsgarten.org/). But really, I'm a Senior Frontend Engineer at [LINE MAN Wongnai](https://lmwn.com/).
+I'm Riffy. I'm working as a Software Engineer at [Agoda](https://agoda.com), also dedicated myself as a Tech Evangelist at [Creatorsgarten](https://creatorsgarten.org), driving developer communities with ideas and creativity.
 
-- Prevoiusly worked at Level11th, and [BRIKL](https://brikl.com).
+- Previously worked at Level11th, and [BRIKL](https://brikl.com), and [LINE MAN Wongnai](https://lmwn.com/).
 - I try new web technologies by creating new projects e.g. [Jacquard RTC](https://github.com/rayriffy/jacquard-rtc), [Riffy H](https://github.com/rayriffy/rayriffy-h), [Music Profile](https://github.com/rayriffy/apple-music-github-profile) , and [many more](https://github.com/rayriffy?tab=repositories)
 - I actively post cool stuffs from travel to technologies. Follow me on [Facebook](https://facebook.com)
 
 ## 👨🏻‍💻 Tech stacks
 
-- General programming: TypeScript, Go (??), Python
-- Databases: Prisma, Kryesly
+- General programming: TypeScript, Go, C#
+- Databases: Prisma, Kysely
 - Web frameworks: Astro, Svelte, React
+- Backend: tRPC, Apollo, ASP.NET
 - Mobile: SwiftUI, React Native
 - Hardware: Raspberry Pi, ESP32, EDA
 
