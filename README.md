@@ -29,6 +29,6 @@ I'm Riffy. I'm working as a Software Engineer at [Agoda](https://agoda.com), als
 - [I made a web application to show my Apple Music in my GitHub profile (or anywhere)](https://blog.rayriffy.com/apple-music-in-github-profile/)
 - [Going even further than the Serverless platform](https://blog.rayriffy.com/beyond-serverless/)
 
-<img src="https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=001583.0d89a010aaec400c857c0fb855586ce7.1031" width="256" alt="Music Profile" />
+<img src="https://music-profile.rayriffy.com/theme/light.svg?uid=001583.0d89a010aaec400c857c0fb855586ce7.1031" width="256" alt="Music Profile" />
 
 <sup>⬆️ Want one of this card on your own profile? [Get your own card now!](https://music-profile.rayriffy.com/)</sup>
