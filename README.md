@@ -9,7 +9,7 @@ I'm Riffy. I'm working as a Software Engineer at [Agoda](https://agoda.com), als
 ## 👨🏻‍💻 Tech stacks
 
 - General programming: TypeScript, Go, C#
-- Databases: Prisma, Kysely
+- Databases: Kysely, Drizzle
 - Web frameworks: Astro, Svelte, React
 - Backend: tRPC, Apollo, ASP.NET
 - Mobile: SwiftUI, React Native
@@ -18,6 +18,7 @@ I'm Riffy. I'm working as a Software Engineer at [Agoda](https://agoda.com), als
 ## 💼 Best projects...so far
 
 - [rayriffy-h](https://github.com/rayriffy/rayriffy-h): a manga reader focusing on performance, and ease of use.
+- [elysia-rate-limit](https://github.com/rayriffy/elysia-rate-limit): a rate limit middleware for Elysia framework
 - [creatorsgarten.org](https://github.com/creatorsgarten/creatorsgarten.org): a Frontpage, a wiki...all-in-one with speed
 - [apple-music-github-profile](https://github.com/rayriffy/apple-music-github-profile): dynamic SVG to flex your music style
 
